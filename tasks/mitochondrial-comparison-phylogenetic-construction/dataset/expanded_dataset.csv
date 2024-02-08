@@ -23,13 +23,13 @@ taxo_id,specie,blast_name,genbank_common_name,accession_number,mtDNA
 219595,Cygnus cygnus,birds,common whooper,NC_027095,https://www.ncbi.nlm.nih.gov/nucleotide/NC_027095.1
 59729,Taeniopygia guttata,birds,zebra finch,NC_007897,https://www.ncbi.nlm.nih.gov/nucleotide/NC_007897.1
 9233,Aptenodytes forsteri,birds,emperor penguin,NC_027938,https://www.ncbi.nlm.nih.gov/nucleotide/NC_027938.1
-37010,Pan troglodytes schweinfurthii,Pan,Pan troglodytes schweinfurthii,OQ813755,https://www.ncbi.nlm.nih.gov/nuccore/OQ813755.1
-9615,Canis lupus familiaris,Canis,Canis lupus familiaris,OR047611,https://www.ncbi.nlm.nih.gov/nuccore/OR047611.1
-9685,Felis catus,Felis,Felis catus,PP070534,https://www.ncbi.nlm.nih.gov/nuccore/PP070534.1
-8822,Apteryx australis,Apteryx,Apteryx australis,MW807368,https://www.ncbi.nlm.nih.gov/nuccore/MW807368.1
-9031,Gallus gallus,Gallus,Gallus gallus,CM068470,https://www.ncbi.nlm.nih.gov/nuccore/CM068470.1
-7460,Apis mellifera,Apis,Apis mellifera,OR989901,https://www.ncbi.nlm.nih.gov/nuccore/OR989901.1
-7227,Drosophila melanogaster,Sophophora,Drosophila melanogaster,OR917921,https://www.ncbi.nlm.nih.gov/nuccore/OR917921.1
-9783,Elephas maximus,Elephas,Elephas maximus,LC789924,https://www.ncbi.nlm.nih.gov/nuccore/LC789924.1
-9733,Orcinus orca,Orcinus,Orcinus orca,OR661229,https://www.ncbi.nlm.nih.gov/nuccore/OR661229.1
+9689,Panthera leo,Panthera,Panthera leo,NC_028302,https://www.ncbi.nlm.nih.gov/nuccore/NC_028302.1
+9755,Physeter catodon,Physeter,Physeter catodon,ON725080,https://www.ncbi.nlm.nih.gov/nuccore/ON725080.1
+8469,Chelonia mydas,Chelonia,Chelonia mydas,LC777287,https://www.ncbi.nlm.nih.gov/nuccore/LC777287.1
+43471,Dendrobates auratus,Dendrobates,Dendrobates auratus,AF120012,https://www.ncbi.nlm.nih.gov/nuccore/AF120012.1
+176014,Ara macao,Ara,Ara macao,OR913731,https://www.ncbi.nlm.nih.gov/nuccore/OR913731.1
 29073,Ursus maritimus,Ursus,Ursus maritimus,OQ029583,https://www.ncbi.nlm.nih.gov/nuccore/OQ029583.1
+13397,Carcharodon carcharias,Carcharodon,Carcharodon carcharias,PP170093,https://www.ncbi.nlm.nih.gov/nuccore/PP170093.1
+3311,Ginkgo biloba,Ginkgo,Ginkgo biloba,NC_027976,https://www.ncbi.nlm.nih.gov/nuccore/NC_027976.1
+30195,Bombus terrestris,Bombus,Bombus terrestris,OR767127,https://www.ncbi.nlm.nih.gov/nuccore/OR767127.1
+37010,Pan troglodytes schweinfurthii,Pan,Pan troglodytes schweinfurthii,OQ813755,https://www.ncbi.nlm.nih.gov/nuccore/OQ813755.1

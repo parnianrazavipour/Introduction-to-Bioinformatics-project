@@ -1,0 +1,104 @@
+query_id,alignment_title,e_value,score,identities,alignment_length
+Query_71485,"gi|325431|gb|K01834.1|HPUCGD Duck hepatitis B virus, complete genome",0.0,6004.0,3002,3002
+Query_71485,"gi|33088057|gb|AY250901.1| Duck hepatitis B virus isolate 31, complete genome",0.0,5924.0,2986,3002
+Query_71485,"gi|33088061|gb|AY250902.1| Duck hepatitis B virus isolate 102, complete genome",0.0,5919.0,2985,3002
+Query_71485,"gi|20136726|gb|AF493986.1| Duck hepatitis B virus isolate Indiana, complete genome",0.0,5909.0,2983,3002
+Query_71485,"gi|2982230|gb|AF047045.1| Duck hepatitis B virus, complete genome",0.0,5904.0,2982,3002
+Query_71485,"gi|31415503|gb|AY294028.1| Duck hepatitis B virus isolate ST10, complete genome",0.0,5904.0,2982,3002
+Query_71485,"gi|33088065|gb|AY250903.1| Duck hepatitis B virus isolate 8, complete genome >gi|33088069|gb|AY250904.1| Duck hepatitis B virus isolate 27, complete genome",0.0,5904.0,2982,3002
+Query_71485,"gi|311036247|gb|HQ214130.1| Duck hepatitis B virus strain DHBV-XY, complete genome",0.0,5889.0,2979,3002
+Query_71485,"gi|748302902|gb|KM676220.1| Duck hepatitis B virus strain SCP01, complete genome",0.0,5884.0,2978,3002
+Query_71485,"gi|31415505|gb|AY294029.1| Duck hepatitis B virus isolate D1, complete genome",0.0,5879.0,2977,3002
+Query_71485,"gi|28629157|gb|AF505512.1| Duck hepatitis B virus, complete genome",0.0,5879.0,2977,3002
+Query_71485,"gi|325425|gb|M60677.1|HPUCGE Duck hepatitis B virus, complete genome",0.0,5879.0,2977,3002
+Query_71485,"gi|31506004|gb|AY294656.1| Duck hepatitis B virus, complete genome",0.0,5874.0,2976,3002
+Query_71485,gi|397342|emb|X74623.1| Duck hepatitis B Virus DNA complete genome,0.0,5824.0,2966,3002
+Query_71485,"gi|1442786807|gb|MF471769.1| Duck hepatitis B virus isolate SD-02, complete genome",0.0,5819.0,2965,3002
+Query_71485,gi|59057|emb|X12798.1| Duck hepatitis virus B genome,0.0,5819.0,2965,3002
+Query_71485,"gi|1935902416|gb|MW176097.1| Duck hepatitis B virus isolate 410, complete genome",0.0,5194.0,2840,3002
+Query_71485,"gi|315360729|gb|HQ132730.1| Duck hepatitis B virus isolate DHBV-GD-056, complete genome",0.0,5189.0,2839,3002
+Query_71485,"gi|1935902420|gb|MW176098.1| Duck hepatitis B virus isolate 414, complete genome",0.0,5184.0,2838,3002
+Query_71485,"gi|81251208|gb|DQ195079.1| Duck hepatitis B virus isolate 3, complete genome",0.0,5159.0,2833,3002
+Query_71485,"gi|2450763368|gb|OP762450.1| Duck hepatitis B virus strain Y190303HN, complete genome",0.0,5104.0,2816,2992
+Query_71485,gi|59054|emb|X58567.1| Duck hepatitis B virus,0.0,5064.0,2814,3002
+Query_71485,"gi|2450763304|gb|OP762434.1| Duck hepatitis B virus strain Y170101HB, complete genome",0.0,5038.0,2811,3005
+Query_71485,"gi|2450763300|gb|OP762433.1| Duck hepatitis B virus strain E190103HB, complete genome",0.0,5008.0,2799,2995
+Query_71485,"gi|169116565|gb|EU429326.1| Duck hepatitis B virus isolate CH6, complete genome",0.0,4900.0,2506,2545
+Query_71485,"gi|169116565|gb|EU429326.1| Duck hepatitis B virus isolate CH6, complete genome",0.0,880.0,440,440
+Query_71485,"gi|2450763284|gb|OP762429.1| Duck hepatitis B virus strain E170101AH, complete genome",0.0,4723.0,2748,3005
+Query_71485,"gi|40786842|gb|AY494851.1| Duck hepatitis B virus, complete genome",0.0,4653.0,2734,3005
+Query_71485,"gi|2450763360|gb|OP762448.1| Duck hepatitis B virus strain Y190202HN, complete genome",0.0,4632.0,2732,3008
+Query_71485,"gi|40786836|gb|AY494850.1| Duck hepatitis B virus, complete genome",0.0,4627.0,2731,3006
+Query_71485,"gi|2450763364|gb|OP762449.1| Duck hepatitis B virus strain Y190226AH, complete genome",0.0,4617.0,2723,2996
+Query_71485,"gi|37549279|gb|AY392760.1| Duck hepatitis B virus isolate GD1, complete genome",0.0,4611.0,2724,2999
+Query_71485,"gi|2482563955|gb|OQ183601.1| Duck hepatitis B virus strain Y220201, complete genome",0.0,4607.0,2721,2998
+Query_71485,"gi|2482563943|gb|OQ183598.1| Duck hepatitis B virus strain Y200106, complete genome",0.0,4607.0,2721,2996
+Query_71485,"gi|311036253|gb|HQ328779.1| Duck hepatitis B virus strain DHBV-JZ, complete genome",0.0,4598.0,2717,2995
+Query_71485,"gi|302319036|gb|HM590411.1| Duck hepatitis B virus strain DHBV-WS, complete genome",0.0,4597.0,2719,2996
+Query_71485,gi|59055|emb|X58568.1| Duck hepatitis B virus,0.0,4593.0,2722,3005
+Query_71485,"gi|2482563947|gb|OQ183599.1| Duck hepatitis B virus strain Y200109, complete genome",0.0,4587.0,2717,2996
+Query_71485,"gi|2482563983|gb|OQ183608.1| Duck hepatitis B virus strain Y210829, complete genome",0.0,4583.0,2714,2995
+Query_71485,"gi|2450763328|gb|OP762440.1| Duck hepatitis B virus strain Y180724AH, complete genome",0.0,4583.0,2714,2995
+Query_71485,gi|59056|emb|X58569.1| Duck hepatitis B virus,0.0,4583.0,2720,3005
+Query_71485,"gi|2450763336|gb|OP762442.1| Duck hepatitis B virus strain Y180830HN, complete genome",0.0,4582.0,2716,2996
+Query_71485,"gi|2482563971|gb|OQ183605.1| Duck hepatitis B virus strain Y200226, complete genome",0.0,4573.0,2712,2995
+Query_71485,"gi|2169768407|gb|MZ048741.1| Duck hepatitis B virus isolate AAU-6, complete genome",0.0,4568.0,2711,2995
+Query_71485,"gi|2482563963|gb|OQ183603.1| Duck hepatitis B virus strain Y220217, complete genome",0.0,4567.0,2713,2996
+Query_71485,"gi|2482563951|gb|OQ183600.1| Duck hepatitis B virus strain Y210928, complete genome",0.0,4567.0,2713,2998
+Query_71485,"gi|82592699|gb|DQ276978.1| Duck hepatitis B virus, complete genome",0.0,4563.0,2710,2995
+Query_71485,"gi|44829147|gb|AY536371.1| Duck hepatitis B virus strain GD3, complete genome",0.0,4557.0,2711,2998
+Query_71485,"gi|2450763296|gb|OP762432.1| Duck hepatitis B virus strain E180606HB, complete genome",0.0,4553.0,2714,3005
+Query_71485,"gi|325435|gb|M21953.1|HPUGA Duck hepatitis B virus, complete genome",0.0,4553.0,2714,3005
+Query_71485,"gi|2482563959|gb|OQ183602.1| Duck hepatitis B virus strain Y211013, complete genome",0.0,4548.0,2707,2995
+Query_71485,"gi|2301572970|gb|MZ031969.1| Duck hepatitis B virus isolate AAU-1, complete genome",0.0,4543.0,2706,2995
+Query_71485,"gi|2482563979|gb|OQ183607.1| Duck hepatitis B virus strain Y200722, complete genome",0.0,4538.0,2711,3005
+Query_71485,"gi|325448|gb|M32990.1|HPUS5CG Duck hepatitis B virus complete genome, from brown Shanghai duck",0.0,4537.0,2707,2998
+Query_71485,"gi|2450763320|gb|OP762438.1| Duck hepatitis B virus strain Y180613HN, complete genome",0.0,4532.0,2706,2998
+Query_71485,"gi|2169768578|gb|MZ048742.1| Duck hepatitis B virus isolate AAU-16, complete genome",0.0,4532.0,2706,2998
+Query_71485,"gi|2230207398|gb|MZ054255.1| Duck hepatitis B virus isolate AAU-19, complete genome",0.0,4528.0,2703,2995
+Query_71485,"gi|9625568|ref|NC_001344.1| Duck hepatitis B virus, complete genome",0.0,4517.0,2703,2998
+Query_71485,gi|59058|emb|X60213.1| Duck hepatitis B virus complete genome,0.0,4517.0,2703,2998
+Query_71485,"gi|2482563967|gb|OQ183604.1| Duck hepatitis B virus strain Y200122, complete genome",0.0,4512.0,2708,3008
+Query_71485,"gi|2482563939|gb|OQ183597.1| Duck hepatitis B virus strain Y200825, complete genome",0.0,4508.0,2699,2995
+Query_71485,"gi|2502825492|gb|OP850044.1| Duck hepatitis B virus isolate SDTZ2193, complete genome",0.0,4505.0,2667,2942
+Query_71485,"gi|2502825492|gb|OP850044.1| Duck hepatitis B virus isolate SDTZ2193, complete genome",8.38866e-09,87.0,51,56
+Query_71485,"gi|15150396|gb|AF404406.1|AF404406 Duck hepatitis B virus, complete genome",0.0,4498.0,2697,2995
+Query_71485,"gi|1442786803|gb|MF471768.1| Duck hepatitis B virus isolate SD-01, complete genome",0.0,4492.0,2698,2998
+Query_71485,"gi|2450763352|gb|OP762446.1| Duck hepatitis B virus strain Y181114AH, complete genome",0.0,4492.0,2704,3008
+Query_71485,"gi|410026809|gb|JX469897.1| Duck hepatitis B virus isolate DHBV2, complete genome",0.0,4492.0,2698,2998
+Query_71485,"gi|2482563975|gb|OQ183606.1| Duck hepatitis B virus strain Y200619, complete genome",0.0,4487.0,2697,2998
+Query_71485,"gi|2450763344|gb|OP762444.1| Duck hepatitis B virus strain Y181110HN, complete genome",0.0,4487.0,2703,3008
+Query_71485,"gi|2450763340|gb|OP762443.1| Duck hepatitis B virus strain Y180926HB, complete genome",0.0,4487.0,2703,3008
+Query_71485,"gi|2450763308|gb|OP762435.1| Duck hepatitis B virus strain Y180317HB, complete genome",0.0,4482.0,2696,2998
+Query_71485,"gi|38017493|gb|AY433937.1| Duck hepatitis B virus strain GD2, complete genome",0.0,4481.0,2698,2999
+Query_71485,"gi|2450763356|gb|OP762447.1| Duck hepatitis B virus strain Y181229HN, complete genome",0.0,4472.0,2694,2998
+Query_71485,"gi|2450763332|gb|OP762441.1| Duck hepatitis B virus strain Y180813HB, complete genome",0.0,4467.0,2693,2998
+Query_71485,"gi|410026813|gb|JX469898.1| Duck hepatitis B virus isolate DHBV3, complete genome",0.0,4467.0,2693,2998
+Query_71485,"gi|296142305|gb|HM043822.1| Duck hepatitis B virus strain DHBV-xz-1, complete genome",0.0,4467.0,2693,2998
+Query_71485,"gi|45775509|gb|AY521226.1| Duck hepatitis B virus strain A, complete genome",0.0,4467.0,2693,2998
+Query_71485,"gi|2301572955|gb|MZ031968.1| Duck hepatitis B virus isolate AAU-14, complete genome",0.0,4459.0,2679,2978
+Query_71485,"gi|45775513|gb|AY521227.1| Duck hepatitis B virus strain B, complete genome",0.0,4457.0,2691,2998
+Query_71485,"gi|2450763348|gb|OP762445.1| Duck hepatitis B virus strain Y181111HB, complete genome",0.0,4437.0,2688,2998
+Query_71485,"gi|2450763316|gb|OP762437.1| Duck hepatitis B virus strain Y180612AH, complete genome",0.0,4437.0,2687,2998
+Query_71485,"gi|410026805|gb|JX469896.1| Duck hepatitis B virus isolate DHBV1, complete genome",0.0,4432.0,2687,2997
+Query_71485,"gi|3218460|emb|AJ006350.1| Duck hepatitis B virus, complete genome",0.0,4427.0,2685,2998
+Query_71485,"gi|325444|gb|M32991.1|HPUS31CG Duck hepatitis B virus complete genome, from white Shanghai duck",0.0,4423.0,2683,2996
+Query_71485,"gi|2482564023|gb|OQ183618.1| Duck hepatitis B virus strain E200529, complete genome",0.0,4422.0,2684,2998
+Query_71485,"gi|2482564015|gb|OQ183616.1| Duck hepatitis B virus strain E210814, complete genome",0.0,4417.0,2683,2998
+Query_71485,"gi|2482563987|gb|OQ183609.1| Duck hepatitis B virus strain E200402, complete genome",0.0,4402.0,2680,2998
+Query_71485,"gi|2482563991|gb|OQ183610.1| Duck hepatitis B virus strain E200422, complete genome",0.0,4392.0,2678,2998
+Query_71485,"gi|2450763292|gb|OP762431.1| Duck hepatitis B virus strain E180402HN, complete genome",0.0,4382.0,2676,2998
+Query_71485,"gi|2482564027|gb|OQ183619.1| Duck hepatitis B virus strain E200801, complete genome",0.0,4377.0,2675,2998
+Query_71485,"gi|2482564019|gb|OQ183617.1| Duck hepatitis B virus strain E220324, complete genome",0.0,4377.0,2675,2998
+Query_71485,"gi|2482564011|gb|OQ183615.1| Duck hepatitis B virus strain E210620, complete genome",0.0,4372.0,2674,2998
+Query_71485,"gi|2482563999|gb|OQ183612.1| Duck hepatitis B virus strain E210501, complete genome",0.0,4372.0,2674,2998
+Query_71485,"gi|2482563995|gb|OQ183611.1| Duck hepatitis B virus strain E200731, complete genome",0.0,4372.0,2674,2998
+Query_71485,"gi|2482564007|gb|OQ183614.1| Duck hepatitis B virus strain E210526, complete genome",0.0,4367.0,2673,2998
+Query_71485,"gi|169116551|gb|EU429324.1| Duck hepatitis B virus isolate CH4, complete genome",0.0,4360.0,2392,2535
+Query_71485,"gi|169116551|gb|EU429324.1| Duck hepatitis B virus isolate CH4, complete genome",4.03766e-171,685.0,401,440
+Query_71485,"gi|2482564003|gb|OQ183613.1| Duck hepatitis B virus strain E210321, complete genome",0.0,4357.0,2671,2998
+Query_71485,"gi|2450763312|gb|OP762436.1| Duck hepatitis B virus strain Y180610AH, complete genome",0.0,4348.0,2673,3002
+Query_71485,"gi|2450763288|gb|OP762430.1| Duck hepatitis B virus strain E180327HB, complete genome",0.0,4332.0,2666,2998
+Query_71485,"gi|2450763324|gb|OP762439.1| Duck hepatitis B virus strain Y180702HN, complete genome",0.0,4302.0,2660,2998
+Query_71485,"gi|4530332|gb|AF111000.1|AF111000 Snow goose hepatitis B virus isolate SGHBV1-9, complete genome",0.0,4300.0,2666,3008
+Query_71485,"gi|4530331|gb|AF110999.1|AF110999 Snow goose hepatitis B virus isolate SGHBV1-7, complete genome",0.0,4294.0,2667,3009
